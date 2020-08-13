@@ -1,5 +1,5 @@
 +++
-title = "AWS Workshop Hugo Template Documentation"
+title = "AWS Workshop Hugo Template"
 weight = 0
 chapter = false
 +++
