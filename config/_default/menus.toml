@@ -1,0 +1,10 @@
+[[shortcuts]]
+name = "<i class='fas fa-bookmark'></i> Hugo Documentation"
+identifier = "hugodoc"
+url = "https://gohugo.io"
+weight = 100100
+
+[[shortcuts]]
+name = "<i class='fas fa-bookmark'></i> Theme Learn Documentation"
+url = "https://learn.netlify.app"
+weight = 100200
