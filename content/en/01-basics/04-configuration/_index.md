@@ -6,7 +6,7 @@ pre = "<b>d. </b>"
 disableToc = false
 +++
 
-### Hugo configuration
+## Hugo configuration
 
 The [Hugo global configuration](https://gohugo.io/overview/configuration/) is the basis to customize your template. There are two methods to define the configuration:
 
@@ -17,7 +17,7 @@ The [Hugo global configuration](https://gohugo.io/overview/configuration/) is th
 The template uses the **[directory configuration](https://gohugo.io/getting-started/configuration/#configuration-directory)** method for customizing it.
 {{% /notice %}}
 
-### Global site parameters
+## Global site parameters
 
 On top of [Hugo global configuration](https://gohugo.io/overview/configuration/), you can define the following parameters in `config/_default/params.toml` file.
 
