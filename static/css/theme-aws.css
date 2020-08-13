@@ -179,6 +179,8 @@ a:hover {
 }
 
 #sidebar #shortcuts h3 {
+    color: white !important;
+    font-weight: 200 !important;
     font-family: "Amazon Ember", "Novacento Sans Wide", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
 }
 
