@@ -6,7 +6,7 @@ pre = "<b>f. </b>"
 disableToc = false
 +++
 
-### Change the logo
+## Change the logo
 
 To change the default template logo, go to `layouts/partials` and modify the `logo.html` file. Write any HTML you want. You could use an `img` HTML tag and reference an image created under the *static* folder, or you could paste a SVG definition.
 
@@ -14,7 +14,7 @@ To change the default template logo, go to `layouts/partials` and modify the `lo
 The size of the logo will adapt automatically.
 {{% /notice %}}
 
-### Change the favicon
+## Change the favicon
 
 If your favicon is a `png`, just drop off your image in your local `static/images/` folder and name it `favicon.png`.
 
@@ -24,7 +24,7 @@ If you need to change this default behavior, create a new file in `layouts/parti
 <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
 ```
 
-### Change default colors
+## Change default colors
 
 #### Native color scheme variants
 

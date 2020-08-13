@@ -6,11 +6,11 @@ pre = "<b>a. </b>"
 disableToc = false
 +++
 
-### 1. Install Hugo
+## 1. Install Hugo
 
 Download and install the latest version of [Hugo](https://gohugo.io/getting-started/installing/) framework for your OS (Windows, Linux, Mac).
 
-### 2. Test Hugo installation
+## 2. Test Hugo installation
 
 Once you have installed **Hugo**, make sure is in your `PATH`. You can test that it has been installed correctly via the `help` command.
 

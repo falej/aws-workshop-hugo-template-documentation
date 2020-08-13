@@ -14,7 +14,7 @@ It provides:
 - Automatic menu generation from multilingual content
 - In-browser language switching
 
-### Basic configuration
+## Basic configuration
 
 All configuration regarding languages is defined in `config/_default/languages.toml` file. By default, the template is configured to support **English** language only. The following is the default configuration you will find in the file:
 
@@ -44,7 +44,7 @@ title = "Taller de AWS"
 weight = 2
 ```
 
-### Default content language
+## Default content language
 
 When working with multiple languages, you can define which language will be the default rendered in your website. You can modify the `defaultContentLanguage` parameter in `config/_default/config.toml` file.
 
@@ -52,7 +52,7 @@ When working with multiple languages, you can define which language will be the 
 defaultContentLanguage = "en"
 ```
 
-### Overwrite translation strings
+## Overwrite translation strings
 
 Translations strings are used for common default values used in the theme (*Edit this page* button, *Search placeholder* and so on). By default, translations are available in english only but you may use another language or want to override default values.
 
