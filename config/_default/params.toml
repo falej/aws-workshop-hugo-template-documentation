@@ -1,0 +1,9 @@
+author = "falej"
+description = "AWS Workshop"
+
+themeVariant = "aws"
+
+showVisitedLinks = true
+disableInlineCopyToClipBoard = true
+
+custom_css = ["css/styles.css"]
