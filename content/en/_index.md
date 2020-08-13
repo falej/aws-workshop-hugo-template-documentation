@@ -8,7 +8,7 @@ chapter = false
 
 **AWS Workshop Hugo Template** is based on [Hugo](https://gohugo.io/) framework and [Learn](https://github.com/matcornic/hugo-theme-learn/) theme.
 
-### Main features
+## Main features
 
 - Automatic search
 - Multilingual mode
